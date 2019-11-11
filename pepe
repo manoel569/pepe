@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1,Record tv
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1,A Fazenda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_a7188b70813e077148cc0f0c65d285ed70604bc5/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_f998c8378671ce69a58ac4f48d50aaca26a2be19/playlist.m3u8
+#EXTINF:-1,Fox HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_f998c8378671ce69a58ac4f48d50aaca26a2be19/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://epimetheus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipoca_fd937516_88f179ca327244f5b46aecac3a4cb170cffaf16f.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://172.105.153.139/hls/s:95.216.15.44:81/telecinepipoca_fd937516_88f179ca327244f5b46aecac3a4cb170cffaf16f.m3u8
